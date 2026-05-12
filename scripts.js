@@ -44,7 +44,7 @@ Algoritmo- Receita do Bolo
 // Função é uma ação(como se fosse um verbo)
 // Tudo que acontece dentro da pagina 
 
-let chave = "SUA_CHAVE_AQUI"
+let chave = "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"
 let endereco = "https://api.groq.com/openai/v1/chat/completions"
 
 async function gerarCodigo() {
